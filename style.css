@@ -1,3 +1,13 @@
+/* Primeira declaração CSS */
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222;
+  font-family: Arial, sans-serif;
+}
 .calculadora {
   background: #333;
   padding: 20px;
